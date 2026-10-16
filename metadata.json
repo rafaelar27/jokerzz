@@ -1,0 +1,9 @@
+{
+  "id": "firstmod_change_later",
+  "name": "Change Later",
+  "author": ["rafs"],
+  "description": "change later",
+  "prefix": "change_later",
+  "main_file":"main.lua",
+  "version": "0.0.1"
+}

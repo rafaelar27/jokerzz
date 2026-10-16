@@ -5,3 +5,6 @@
 # IntelliJ
 .idea/*
 *.iml
+
+# Others
+.luarc.json

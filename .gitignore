@@ -1,0 +1,7 @@
+# Environment files
+.env.prod
+.env
+
+# IntelliJ
+.idea/*
+*.iml
